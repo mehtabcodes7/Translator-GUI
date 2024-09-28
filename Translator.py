@@ -1,3 +1,6 @@
+#MehtabCodes Presents
+#Translator App Using Python
+
 import tkinter as tk
 from tkinter import ttk, messagebox, Scrollbar, Frame
 
